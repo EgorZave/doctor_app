@@ -1,4 +1,6 @@
 # doctor_appointment_app
+https://egorzave.github.io/doctor_app/
+
 Web application for making appointmens to doctor
 
 Работа была выполнена в команде из 4-х человек.
